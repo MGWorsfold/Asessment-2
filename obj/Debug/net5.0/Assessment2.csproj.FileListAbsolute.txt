@@ -1,0 +1,16 @@
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\bin\Debug\net5.0\Assessment2.exe
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\bin\Debug\net5.0\Assessment2.deps.json
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\bin\Debug\net5.0\Assessment2.runtimeconfig.json
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\bin\Debug\net5.0\Assessment2.runtimeconfig.dev.json
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\bin\Debug\net5.0\Assessment2.dll
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\bin\Debug\net5.0\ref\Assessment2.dll
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\bin\Debug\net5.0\Assessment2.pdb
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\obj\Debug\net5.0\Assessment2.csproj.AssemblyReference.cache
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\obj\Debug\net5.0\Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\obj\Debug\net5.0\Assessment2.AssemblyInfoInputs.cache
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\obj\Debug\net5.0\Assessment2.AssemblyInfo.cs
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\obj\Debug\net5.0\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\obj\Debug\net5.0\Assessment2.dll
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\obj\Debug\net5.0\ref\Assessment2.dll
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\obj\Debug\net5.0\Assessment2.pdb
+C:\Users\103551970\OneDrive - Swinburne University\Programming\VSCode\Assessment 2\Assessment2\obj\Debug\net5.0\Assessment2.genruntimeconfig.cache
